@@ -1,0 +1,4 @@
+6,Aparat de ras,56.0
+3,Servetele parfumate, 67.3
+16,Balsam de par,45
+631,Cereale,57.15
