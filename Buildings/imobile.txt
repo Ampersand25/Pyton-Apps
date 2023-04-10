@@ -1,0 +1,5 @@
+23,str.Cernei nr.10 Cluj-Napoca,15000,vanzare
+6,str.Dunarii nr.3 Iasi,7251,inchiriere
+16,str.Fabricii de Zahar nr.13 Bucuresti,12500,vanzare
+1,str.Emil Isac nr.15 Timisoara,2500,vanzare
+13,str.Ialomitei nr.9 Cluj-Napoca,10000,inchiriere
